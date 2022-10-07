@@ -1,0 +1,7 @@
+{
+    "kafka":{
+        "url":"localhost:9092",
+        "topic":"go-kafka-demo",
+        "group_id":"group1"
+    }
+}
